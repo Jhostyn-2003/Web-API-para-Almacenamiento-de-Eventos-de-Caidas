@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\Lab2_WebService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE4F8E-C0C4-4F68-B405-D54FFF59DDC5}|Lab2_WebService\\Lab2_WebService.csproj|c:\\users\\user\\source\\repos\\lab2_webservice\\lab2_webservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE4F8E-C0C4-4F68-B405-D54FFF59DDC5}|Lab2_WebService\\Lab2_WebService.csproj|solutionrelative:lab2_webservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE4F8E-C0C4-4F68-B405-D54FFF59DDC5}|Lab2_WebService\\Lab2_WebService.csproj|c:\\users\\user\\source\\repos\\lab2_webservice\\lab2_webservice\\models\\falleventsg3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE4F8E-C0C4-4F68-B405-D54FFF59DDC5}|Lab2_WebService\\Lab2_WebService.csproj|solutionrelative:lab2_webservice\\models\\falleventsg3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE4F8E-C0C4-4F68-B405-D54FFF59DDC5}|Lab2_WebService\\Lab2_WebService.csproj|c:\\users\\user\\source\\repos\\lab2_webservice\\lab2_webservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C3AE4F8E-C0C4-4F68-B405-D54FFF59DDC5}|Lab2_WebService\\Lab2_WebService.csproj|solutionrelative:lab2_webservice\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE4F8E-C0C4-4F68-B405-D54FFF59DDC5}|Lab2_WebService\\Lab2_WebService.csproj|c:\\users\\user\\source\\repos\\lab2_webservice\\lab2_webservice\\lab2_webservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{C3AE4F8E-C0C4-4F68-B405-D54FFF59DDC5}|Lab2_WebService\\Lab2_WebService.csproj|solutionrelative:lab2_webservice\\lab2_webservice.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE4F8E-C0C4-4F68-B405-D54FFF59DDC5}|Lab2_WebService\\Lab2_WebService.csproj|c:\\users\\user\\source\\repos\\lab2_webservice\\lab2_webservice\\controllers\\falleventsg3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE4F8E-C0C4-4F68-B405-D54FFF59DDC5}|Lab2_WebService\\Lab2_WebService.csproj|solutionrelative:lab2_webservice\\controllers\\falleventsg3controller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3AE4F8E-C0C4-4F68-B405-D54FFF59DDC5}|Lab2_WebService\\Lab2_WebService.csproj|c:\\users\\user\\source\\repos\\lab2_webservice\\lab2_webservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3AE4F8E-C0C4-4F68-B405-D54FFF59DDC5}|Lab2_WebService\\Lab2_WebService.csproj|solutionrelative:lab2_webservice\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FallEventsG3.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab2_WebService\\Lab2_WebService\\Models\\FallEventsG3.cs",
+              "RelativeDocumentMoniker": "Lab2_WebService\\Models\\FallEventsG3.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab2_WebService\\Lab2_WebService\\Models\\FallEventsG3.cs",
+              "RelativeToolTip": "Lab2_WebService\\Models\\FallEventsG3.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T09:11:37.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lab2_WebService.http",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab2_WebService\\Lab2_WebService\\Lab2_WebService.http",
+              "RelativeDocumentMoniker": "Lab2_WebService\\Lab2_WebService.http",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab2_WebService\\Lab2_WebService\\Lab2_WebService.http",
+              "RelativeToolTip": "Lab2_WebService\\Lab2_WebService.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-20T03:25:10.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FallEventsG3Controller.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab2_WebService\\Lab2_WebService\\Controllers\\FallEventsG3Controller.cs",
+              "RelativeDocumentMoniker": "Lab2_WebService\\Controllers\\FallEventsG3Controller.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab2_WebService\\Lab2_WebService\\Controllers\\FallEventsG3Controller.cs",
+              "RelativeToolTip": "Lab2_WebService\\Controllers\\FallEventsG3Controller.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAQwGEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T02:43:49.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab2_WebService\\Lab2_WebService\\Program.cs",
+              "RelativeDocumentMoniker": "Lab2_WebService\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab2_WebService\\Lab2_WebService\\Program.cs",
+              "RelativeToolTip": "Lab2_WebService\\Program.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAYwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:46:54.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab2_WebService\\Lab2_WebService\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Lab2_WebService\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab2_WebService\\Lab2_WebService\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Lab2_WebService\\Properties\\launchSettings.json",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAYAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-20T08:03:57.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\Lab2_WebService\\Lab2_WebService\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Lab2_WebService\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\Lab2_WebService\\Lab2_WebService\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Lab2_WebService\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:46:50.886Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
